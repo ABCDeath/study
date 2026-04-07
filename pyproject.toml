@@ -1,0 +1,29 @@
+[project]
+name = "study"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.12"
+dependencies = [
+    "anthropic>=0.84.0",
+    "fasttext>=0.9.3",
+    "ipykernel>=7.2.0",
+    "jupyter-server>=2.17.0",
+    "matplotlib>=3.10.8",
+    "mcp-jupyter>=2.0.2",
+    "networkx>=3.6.1",
+    "nltk>=3.9.3",
+    "num2words>=0.5.14",
+    "numpy>=2.4.2",
+    "pandas>=3.0.1",
+    "plotly>=6.5.2",
+    "scikit-learn>=1.8.0",
+    "scipy>=1.17.1",
+    "spacy>=3.8.11",
+    "statsmodels>=0.14.6",
+    "text2num>=3.0.0",
+    "torch>=2.10.0",
+    "tqdm>=4.67.3",
+    "transformers>=5.2.0",
+    "wordcloud>=1.9.6",
+]

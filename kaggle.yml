@@ -1,0 +1,10 @@
+project: titanic
+kernel_slug: ABCDeath/titanic
+code_file: notebook.ipynb
+accelerator: none
+internet: false
+privacy: private
+datasets: []
+competitions: []
+outputs:
+  download_to: .kaggle-outputs/
